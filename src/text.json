@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "Jordan Dajani",
+      "title": "Giants at Washington score: Live updates, game stats, highlights, TV, live stream for NFC East showdown - CBSSports.com",
+      "description": "Live score, highlights and updates as Washington plays host to the Giants in an NFC East matchup",
+      "url": "https://www.cbssports.com/nfl/news/washington-vs-giants-score-live-updates-time-tv-streaming-odds-pick-for-thursday-night-football/live/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/09/15/a5769e83-60c2-4b37-a984-7430da5ff898/thumbnail/1200x675/8f23c2facea3d8e5791c489af3b0ff74/heinicke-washington.jpg",
+      "publishedAt": "2021-09-17T00:30:00Z",
+      "content": "The Washington Football Team looks to get back to their winning ways on Thursday night, as they play host to the NFC East rival New York Giants. Both teams lost their season openers on Sunday, but a … [+1062 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Chicago Daily Herald"
+      },
+      "author": "Charles Keeshan",
+      "title": "'Sad to see that close': Sears soon will end its 50-year run at Woodfield - Chicago Daily Herald",
+      "description": "The Sears store at Woodfield Mall in Schaumburg, the iconic retailer's final location in Illinois, will close its doors in November as part of a corporate plan to \"redevelop and reinvigorate the property,\" officials announced.",
+      "url": "https://www.dailyherald.com/business/20210916/sad-to-see-that-close-sears-soon-will-end-its-50-year-run-at-woodfield",
+      "urlToImage": "https://www.dailyherald.com/storyimage/DA/20210916/BUSINESS/210919414/AR/0/AR-210919414.jpg&updated=202109161949&imageversion=Facebook&exactH=630&exactW=1200&exactfit=crop&noborder",
+      "publishedAt": "2021-09-17T00:21:30Z",
+      "content": "The Sears anchor store at Woodfield Mall was such an instrumental part of the shopping center's creation and early success that part of the mall's name -- the \"Wood\" is for legendary former Sears Cha… [+3469 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "James Dobbins, Eileen Sullivan, Edgar Sandoval",
+      "title": "Thousands of Migrants Huddle in Squalid Conditions Under Texas Bridge - The New York Times",
+      "description": "The temporary camp in Del Rio has grown with staggering speed in recent days during a massive surge in migration that has overwhelmed the authorities.",
+      "url": "https://www.nytimes.com/2021/09/16/us/texas-migrants-del-rio.html",
+      "urlToImage": "https://static01.nyt.com/images/2021/09/16/us/16texas-migrants-1/16texas-migrants-1-facebookJumbo.jpg",
+      "publishedAt": "2021-09-17T00:07:39Z",
+      "content": "This latest surge in Del Rio comes during a small management shake-up at the Department of Homeland Security, with the secretarys chief of staff, the assistant secretary for border and immigration po… [+1013 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Hannah Frishberg",
+      "title": "Cave discovery reveals how long people have been wearing clothing - New York Post ",
+      "description": "A new archaeological finding has shed some light on the fashion of early man.",
+      "url": "https://nypost.com/2021/09/16/cave-discovery-reveals-how-long-people-have-been-wearing-clothing/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/SCIENCE-CLOTHING_-1.jpg?quality=90&strip=all&w=1024",
+      "publishedAt": "2021-09-16T23:21:00Z",
+      "content": "A new archaeological finding has shed some light on the fashion of early man.\r\nScientists have found rare evidence of ancient people wearing clothing and their style: Approximately 90,000 to 120,000 … [+2059 chars]"
+    }
+  ]
+}
